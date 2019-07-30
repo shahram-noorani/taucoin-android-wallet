@@ -202,5 +202,11 @@
     <orderEntry type="module" module-name="lib_bitcoin" />
     <orderEntry type="module" module-name="lib_foundation" />
     <orderEntry type="module" module-name="lib_platform" />
+    <orderEntry type="module" module-name="lib_bitcoin" />
+    <orderEntry type="module" module-name="lib_foundation" />
+    <orderEntry type="module" module-name="lib_platform" />
+    <orderEntry type="module" module-name="lib_bitcoin" />
+    <orderEntry type="module" module-name="lib_foundation" />
+    <orderEntry type="module" module-name="lib_platform" />
   </component>
 </module>

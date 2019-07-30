@@ -38,7 +38,7 @@
                 android:layout_marginTop="4dp"
                 android:textSize="20dp"
                 android:padding="8dp"
-                android:text="First Transaction"
+                android:text="Fast Transaction"
                 android:textColor="#907be3"
                 android:textStyle="bold"
                 />
